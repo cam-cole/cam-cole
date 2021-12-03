@@ -1,4 +1,5 @@
-### Hi there 👋
+### 👋 Hi there, I'm Cameron Cole 
+### 💡 I'm interested in building software and websites
 
 <!--
 **cam-cole/cam-cole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
