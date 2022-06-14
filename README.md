@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Cameron Cole 
 ### 💡 I'm interested in building software and websites
-### 🌱 I’m currently learning HTML, CSS, Javascript, and Python
+### 🌱 I’m currently learning fullstack development through the Univeristy of Minnesota Coding Bootcamp
 
 <!--
 **cam-cole/cam-cole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
