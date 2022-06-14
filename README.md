@@ -1,11 +1,7 @@
 ### 👋 Hi there, I'm Cameron Cole 
 ### 💡 I'm interested in building software and websites
 ### 🌱 I’m currently learning fullstack development through the Univeristy of Minnesota Coding Bootcamp
-
-### Full Stack Development Languages and Tools
-
-#### Frontend:
-html5
+#### Technologies I am familiar with include: Python, HTML, CSS, JavaScript, Node.js, Express.js, MySQL, Sequelize, and jQuery
 
 <!--
 **cam-cole/cam-cole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
